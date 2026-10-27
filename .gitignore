@@ -1,9 +1,5 @@
-**/target/
+﻿node_modules/
 **/node_modules/
-**/dist/
-**/build/
-**/.pio/
-**/logs/*.csv
-*.hex
-*.elf
-.env.local
+target/
+**/target/
+*.csv
